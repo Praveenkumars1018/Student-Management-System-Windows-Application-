@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 15203,
+    "Name": "Praveen",
+    "Age": 21,
+    "CourseGrades": {
+      "Mathematics": 78
+    }
+  }
+]
